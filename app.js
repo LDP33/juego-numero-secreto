@@ -55,3 +55,4 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
+console.log("hola mundo");
